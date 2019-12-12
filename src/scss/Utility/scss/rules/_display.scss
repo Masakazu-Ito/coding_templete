@@ -1,0 +1,59 @@
+.#{$emma-prefix}d-i {
+  display: inline #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-n {
+  display: none #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-b {
+  display: block #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-ib {
+  display: inline-block #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-fx {
+  display: flex #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-ifx {
+  display: inline-flex #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-tb {
+  display: table #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-itb {
+  display: inline-table #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-tbhg {
+  display: table-header-group #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-tbfg {
+  display: table-footer-group #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-tbrg {
+  display: table-row-group #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-tbr {
+  display: table-row #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-tbc {
+  display: table-cell #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-li {
+  display: list-item #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}d-ih {
+  display: inherit #{emma-important($emma-important)};
+}

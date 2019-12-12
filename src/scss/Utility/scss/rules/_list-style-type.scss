@@ -1,0 +1,31 @@
+.#{$emma-prefix}list-n {
+  list-style-type: none #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}list-d {
+  list-style-type: disc #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}list-c {
+  list-style-type: circle #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}list-s {
+  list-style-type: square #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}list-de {
+  list-style-type: decimal #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}list-dlz {
+  list-style-type: decimal-leading-zero #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}list-lr {
+  list-style-type: lower-roman #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}list-ur {
+  list-style-type: upper-roman #{emma-important($emma-important)};
+}

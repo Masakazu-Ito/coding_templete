@@ -1,0 +1,15 @@
+.#{$emma-prefix}rz-n {
+  resize: none #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}rz-b {
+  resize: both #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}rz-h {
+  resize: horizontal #{emma-important($emma-important)};
+}
+
+.#{$emma-prefix}rz-v {
+  resize: vertical #{emma-important($emma-important)};
+}
